@@ -1,0 +1,8 @@
+Think of classes as the blueprint for a house :
+(a detailed plan, technical drawing, or guide for making something).
+It defines where the walls go and what the features are, but no one can live in it yet.
+Here is comes the The Object: the actual houses built from that blueprint. 
+
+Unlike structured programming, which separates data from the operations
+that act upon it, OOP integrates data (attributes) and behaviour (operations)
+into a single fundamental unit called the Object.
